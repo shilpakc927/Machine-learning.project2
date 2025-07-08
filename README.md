@@ -195,7 +195,7 @@ This project was created as part of a machine learning assignment to practice cl
 ## 📸 Project Screenshots
 
 - [Confusion Matrix Screenshot](Screenshot%2030.png)
-- [Recall ,Precision and F1 Score Screenshot](Screenshot%2017.png)
+- [Recall ,Precision and F1 Score Screenshot](Screenshot%2031.png)
 
 ---
 
